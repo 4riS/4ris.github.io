@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Aristotelis Georgoulis | Junior Software Engineer
+description: Junior Software Engineer passionate about mobile, web and machine learning
+meta_description: "Aristotelis Georgoulis, Junior Software Engineer, mobile development, web development and machine learning"
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://4ris.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+author:         'Aristotelis Georgoulis'
+authorTwitter:  '@ArisGeorgoulis'
 
 permalink:       /:year/:title/
 
