@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-Software Engineer
+Software engineer based in Athens, Greece.
 
 {% include footer.html %}
